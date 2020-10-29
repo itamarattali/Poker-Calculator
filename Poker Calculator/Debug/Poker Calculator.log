@@ -1,0 +1,5 @@
+﻿  Hands.cpp
+  PokerCalculatorMain.cpp
+C:\Users\itama\source\repos\Poker Calculator\Poker Calculator\PokerCalculatorMain.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Poker Calculator.vcxproj -> C:\Users\itama\source\repos\Poker Calculator\Debug\Poker Calculator.exe
